@@ -95,10 +95,4 @@ See the [LICENSE](LICENSE) file for more information.
 
 ---
 
-## 🔗 Links
 
-- 🔗 GitHub Repository: [https://github.com/achy02/Eyeshine](https://github.com/achy02/Eyeshine)
-
----
-
-**Empowering vision through intelligent technology.**
